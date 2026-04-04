@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joshiatharva1/joshiatharva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Atharva Joshi 👋
 
-Here are some ideas to get you started:
+### Software Engineer · Backend · Cloud · Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Backend-focused Software Engineer with experience building scalable systems using Java, Spring Boot, and cloud technologies.
+
+---
+
+## 🚀 What I Work On
+
+- REST APIs & Microservices  
+- Cloud systems (AWS / GCP)  
+- Backend architecture & optimization  
+
+---
+
+## 🛠️ Tech Stack
+
+- Java, Python  
+- Spring Boot  
+- SQL / NoSQL  
+- AWS  
+
+---
+
+## 📬 Connect
+
+- LinkedIn  
+- Email  
